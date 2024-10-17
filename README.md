@@ -1,1 +1,1 @@
-# Sales-excel-project-for-data-analyst
+# Scholar-Art-Data-Analysis (Interactive Dashboard creation using MS Excel)
